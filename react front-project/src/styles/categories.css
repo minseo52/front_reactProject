@@ -1,0 +1,69 @@
+/* 기본 스타일: 라이트모드 */
+.categories-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: 1000px;
+  gap: 1rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.category {
+  font-size: 1.1rem;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1.5rem;
+  border-radius: 999px;
+  background-color: white; /* 라이트모드 배경 흰색 */
+  color: #333; /* 라이트모드 텍스트 색상 */
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 선택적: 살짝 떠보이게 */
+}
+
+.category:hover {
+  background-color: #f1f1f1; /* 라이트모드 hover 색상 */
+}
+
+.category.active {
+  background-color: #22b8cf;
+  color: white;
+  font-weight: 600;
+}
+
+/* 작은 화면에서 카테고리 스타일 */
+@media (max-width: 768px) {
+  .categories-block {
+    justify-content: center;
+    padding: 1rem 0.5rem;
+    flex-wrap: nowrap;
+  }
+
+  .category {
+    flex: 0 0 auto;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+  }
+}
+
+/* 다크모드 스타일 */
+body.dark .categories-block {
+  background-color: #121212;
+}
+
+body.dark .category {
+  background-color: #333;
+  color: white;
+}
+
+body.dark .category:hover {
+  background-color: #312c2c;
+}
+
+body.dark .category.active {
+  background-color: #18a0b3;
+  color: white;
+}

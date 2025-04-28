@@ -1,0 +1,52 @@
+/* PlayList.css */
+
+/* 기본 스타일 */
+.playlist-container {
+  padding: 1rem;
+  background-color: #f1f3f5;
+  color: #000;
+}
+
+.recent-track {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.playlist-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.delete-button {
+  background-color: #ff6b6b;
+  color: #fff;
+  border: none;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.delete-button:hover {
+  background-color: #e54d4d;
+}
+
+/* 다크모드 스타일 */
+body.dark .playlist-container {
+  background-color: #333;
+  color: #e0e0e0;
+}
+
+body.dark .playlist-item {
+  border-bottom: 1px solid #444;
+}
+
+body.dark .delete-button {
+  background-color: #ff6b6b;
+  color: #fff;
+}
+
+body.dark .delete-button:hover {
+  background-color: #e54d4d;
+}

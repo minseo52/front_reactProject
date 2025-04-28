@@ -1,0 +1,62 @@
+/* 공통 다크모드 스타일 */
+body.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* 헤더 로고 등 */
+body.dark .logo {
+  color: rgb(73, 80, 123);
+}
+
+/* 버튼 */
+body.dark button {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #444;
+}
+
+body.dark button:hover {
+  background-color: #444;
+}
+
+/* input */
+body.dark input {
+  background-color: #2a2a2a;
+  color: #f1f1f1;
+  border: 1px solid #555;
+}
+
+/* 공통 카드/컨테이너 */
+body.dark .card,
+body.dark .container,
+body.dark .album-container,
+body.dark .artist-container,
+body.dark .playlist-container {
+  background-color: #1e1e1e;
+  color: #f1f1f1;
+  border: 1px solid #333;
+}
+
+/* 리스트 아이템 */
+body.dark li {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+}
+
+body.dark li:hover {
+  background-color: #2a2a2a;
+}
+
+/* Top 버튼 */
+body.dark .top-button {
+  background-color: #555;
+  color: #fff;
+}
+
+/* 재생목록 미리보기 */
+body.dark .playlist-preview {
+  background-color: #202020;
+  color: white;
+  border-top: 1px solid #444;
+}

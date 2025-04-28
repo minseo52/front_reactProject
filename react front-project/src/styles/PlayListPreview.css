@@ -1,0 +1,51 @@
+/* PlayListPreview.css */
+
+/* 공통 스타일 (기본: 라이트 모드) */
+.playlist-preview {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  background: #ffffff; /* ✅ 라이트 모드 배경색 */
+  color: #000; /* ✅ 라이트 모드 텍스트 색상 */
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
+}
+
+.playlist-preview__title {
+  margin-right: 1rem;
+}
+
+.playlist-preview__button {
+  margin-left: auto;
+  padding: 0.4rem 0.8rem;
+  background: #228be6;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.playlist-preview__button:hover {
+  background: #5bc0de;
+}
+
+/* 다크모드 스타일 */
+.playlist-preview.dark {
+  background: #333;
+  color: #fff;
+  box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.2);
+}
+
+.playlist-preview.dark .playlist-preview__button {
+  background: #5bc0de;
+}
+
+.playlist-preview.dark .playlist-preview__button:hover {
+  background: #4bb5c5;
+}
