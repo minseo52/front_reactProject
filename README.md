@@ -1,5 +1,3 @@
-# front_reactProject
+# music프로젝트
 
-1.0
-
-update front project v.1
+MIRICANVAS_ITEM_COPY_KEY
