@@ -1,3 +1,3 @@
 # music프로젝트
 
-MIRICANVAS_ITEM_COPY_KEY
+![image](https://github.com/user-attachments/assets/4c28dbc0-0307-4fc2-b2dd-7558d7f716b1)
