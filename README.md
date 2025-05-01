@@ -30,6 +30,9 @@
  ![image](https://github.com/user-attachments/assets/4c28dbc0-0307-4fc2-b2dd-7558d7f716b1)
 
 
+## UseCase
+![image](https://github.com/user-attachments/assets/8dc7c140-2983-445e-97a2-28dc15dbd369)
+
 
  ## ⚙️ 기능 상세 설명
 
