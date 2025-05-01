@@ -46,7 +46,7 @@
 
 사용자가 선택한 음악이 모여있는 공간을 구현하고 화면 밑에 실시간으로 고른 노래를 볼수 있게 구현했습니다
 
-<img src="https://github.com/user-attachments/assets/b483c10c-421f-42df-864d-c8d138c59eb3)
+<img src="https://github.com/user-attachments/assets/b483c10c-421f-42df-864d-c8d138c59eb3" width="600" />
 
 ##다크모드 구현
 
