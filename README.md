@@ -34,29 +34,29 @@
 - 실시간 인기 음악 데이터를 불러와 보여줍니다.  
 - 무한 스크롤을 통해 더 많은 곡을 자동으로 로딩합니다.
 
-<img src="https://github.com/user-attachments/assets/615efd83-c522-4a50-9378-e74ccf3e2019" width="600" />
+<img src="https://github.com/user-attachments/assets/615efd83-c522-4a50-9378-e74ccf3e2019" width="800" />
 
 ### 🎤 아티스트 검색
 
 - 사용자가 입력한 아티스트 이름을 기반으로 해당 아티스트의 대표곡을 조회합니다.
    
-<img src="https://github.com/user-attachments/assets/f72e1aa4-220b-4e0b-8f43-36b59d9124b7" width="600" />
+<img src="https://github.com/user-attachments/assets/f72e1aa4-220b-4e0b-8f43-36b59d9124b7" width="800" />
 
 ### 👤 사용자 검색
 
 - 다른 사용자의 재생목록 정보를 기반으로 자주 듣는 음악을 확인할 수 있도록 구현했습니다.
 
-<img src="https://github.com/user-attachments/assets/0be6b8c9-4872-4de3-9923-450e105d7923" width="600" />
+<img src="https://github.com/user-attachments/assets/0be6b8c9-4872-4de3-9923-450e105d7923" width="800" />
 
 ### 📃 재생목록
 
 - 사용자가 선택한 음악이 자동으로 목록에 추가됩니다.  
 - 페이지 하단에는 마지막으로 선택한 곡이 실시간으로 표시됩니다.
 
-<img src="https://github.com/user-attachments/assets/add212b6-e345-44c9-8592-ab7b35f66fd9" width="600" />
+<img src="https://github.com/user-attachments/assets/add212b6-e345-44c9-8592-ab7b35f66fd9" width="800" />
 
 ### 🌙 다크 모드
 
 - 시스템 테마 또는 사용자의 선택에 따라 라이트/다크 모드 전환이 가능합니다.
 
-<img src="https://github.com/user-attachments/assets/2f3dd607-7ff1-4cd8-a37f-de8a8d545285" width="600" />
+<img src="https://github.com/user-attachments/assets/2f3dd607-7ff1-4cd8-a37f-de8a8d545285" width="800" />
