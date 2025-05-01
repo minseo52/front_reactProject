@@ -28,28 +28,28 @@
 
 무한스크롤로 더 많은 곡 탐색 기능 구현 
 
-<img src="https://github.com/user-attachments/assets/9912babb-0728-4d7f-8017-599aa749f5e2" width="600" />
+<img src="https://github.com/user-attachments/assets/615efd83-c522-4a50-9378-e74ccf3e2019" width="600" />
 
 ## 아티스트 검색 구현
 
 아티스트의 이름으로 검색하여 해당 아티스트의 곡이 나오게 구현했습니다
    
-<img src="https://github.com/user-attachments/assets/c2fe8d6d-732f-4a7b-ac5c-f96f2310d669" width="600" />
+<img src="https://github.com/user-attachments/assets/f72e1aa4-220b-4e0b-8f43-36b59d9124b7" width="600" />
 
 ## 사용자 검색
 
 해당 사이트를 사용하는 다른 사용자의 재생목록 정보를 가져올수 있는 기능 구현
 
-<img src="https://github.com/user-attachments/assets/81d4f087-4bbb-484a-add0-f0132bdc74b4" width="600" />
+<img src="https://github.com/user-attachments/assets/0be6b8c9-4872-4de3-9923-450e105d7923" width="600" />
 
 ## 재생목록
 
 사용자가 선택한 음악이 모여있는 공간을 구현하고 화면 밑에 실시간으로 고른 노래를 볼수 있게 구현했습니다
 
-<img src="https://github.com/user-attachments/assets/b483c10c-421f-42df-864d-c8d138c59eb3" width="600" />
+<img src="https://github.com/user-attachments/assets/add212b6-e345-44c9-8592-ab7b35f66fd9" width="600" />
 
 ## 다크모드 구현
 
 사용자의 환경에 따라 선택할수 있는 화면 변화 기능을 구현하였습니다
 
-<img src="https://github.com/user-attachments/assets/2c6a6943-dc4b-4d3a-9278-c593502ea267" width="600" />
+<img src="https://github.com/user-attachments/assets/2f3dd607-7ff1-4cd8-a37f-de8a8d545285" width="600" />
