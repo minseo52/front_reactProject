@@ -28,7 +28,7 @@
 
 무한스크롤로 더 많은 곡 탐색 기능 구현 
 
-<img src=![React App - Chrome 2025-05-01 11-15-53](<img src="https://github.com/user-attachments/assets/9912babb-0728-4d7f-8017-599aa749f5e2"width="400" />)
+![React App - Chrome 2025-05-01 11-15-53](<img src="https://github.com/user-attachments/assets/9912babb-0728-4d7f-8017-599aa749f5e2)
 
 ##아티스트 검색 구현
 
